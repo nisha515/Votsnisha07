@@ -9,12 +9,12 @@ scanf("%d", &number);
 
 if(number%2==0)
 {
-    printf("%d even number is \n",number);
+    printf("%d is even number s\n",number);
 }
 
 else 
 {
-    printf("%d odd number is \n", number);
+    printf("%d is  odd number  \n", number);
 }
 
 
